@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert 'JavaScript -... - 听雨危楼 - 博客园' == 'JavaScript -...- 听雨危楼 - 博客园2'\n  - JavaScript - 过滤敏感字符 - 听雨危楼 - 博客园\n  + JavaScript - 过滤敏感字符 - 听雨危楼 - 博客园2\n  ?                                 +",
+      "children" : [ {
+        "name" : "cnblogs",
+        "uid" : "6753c00ebf9194c4",
+        "parentUid" : "f35a7bd44e4fde614daa5bc822cc6b0b",
+        "status" : "failed",
+        "time" : {
+          "start" : 1574817331041,
+          "stop" : 1574817331239,
+          "duration" : 198
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'case_project': 'cnblogs', 'case_description': '博客园博客信息', 'case_url': 'https://www.cnblogs.com/Neeo/articles/11667962.html', 'case_method': 'get', 'case_params': '', 'case_expect': 'JavaScript - 过滤敏感字符 - 听雨危楼 - 博客园2', 'other': ''}" ]
+      } ],
+      "uid" : "f35a7bd44e4fde614daa5bc822cc6b0b"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

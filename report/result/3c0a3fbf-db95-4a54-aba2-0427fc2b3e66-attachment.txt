@@ -1,0 +1,1 @@
+INFO     接口测试:EmailHandler.py:62 邮件发送成功

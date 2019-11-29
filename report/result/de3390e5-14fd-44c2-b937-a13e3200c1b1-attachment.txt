@@ -1,0 +1,1 @@
+INFO     接口测试:RequestHandler.py:60 https://cnodejs.org/api/v1/message/mark_all 执行成功
