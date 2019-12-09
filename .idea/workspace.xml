@@ -2,9 +2,163 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a68e12d-e2dd-4294-9b85-fdb3d6fc16eb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/logs/2019-12-09.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/allure_html/data/attachments/56e11c4dd3e61ed9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/allure_html/data/attachments/6812098b6bd3e846.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/allure_html/data/attachments/78a5fd035626cf78.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/allure_html/data/attachments/bd5838e579579383.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/allure_html/data/attachments/ddb4fc4a77ebe246.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/allure_html/data/attachments/f1b9479c3163ea59.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/allure_html/data/attachments/f20605b8baf86c71.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/allure_html/data/attachments/fc1a5020e3da0098.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/32043453e4097e39.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/6419c9405bc2a216.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/9593d14f0a3a3cb9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/9970056e82f40e5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/9a3e9ce01b819fca.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/e47b54b4478969e4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/f00a78fda41fe5ed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/f2d2140805eb96db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/result/03c61fb3-fb5a-414a-b069-f7e8f781b37f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/result/058c5341-a296-4211-99de-7faae981b6bf-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/result/0cc91eff-a082-4067-bd63-fd5b7a05f97d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/result/11b541e2-ad45-490d-bb93-075f5fb32447-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/result/128c76c2-dc88-4306-8414-e580df10a340-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/result/21e5b091-50af-4053-aa3b-a70b19cffc6d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/result/30624a73-7f54-4887-99f3-e7a2545875a6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/result/34369971-8a6f-4a02-8c17-0c29f398f3df-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/result/46653378-0348-4b7b-99a0-298817388531-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/result/4a6aa368-3bbe-4ff2-a2a3-112f05d801c8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/result/6c312ff7-7862-4c8b-a558-e4f209fc0e35-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/result/8bcc9db5-268c-4830-9852-525a1f0bd85d-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/result/9560b278-bbc7-40c5-aed3-e8cb3b04f316-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/result/98370824-6004-43d4-86b3-284d716895f9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/result/9b9f09a1-6a39-44fa-883a-7f9c987254b3-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/result/a112a49e-04dd-413f-8613-02a4c9a7e06d-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/result/a13a96aa-e52e-4fc1-9fb7-84b9a84a94ac-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/result/add0661e-116a-48ed-a177-a96e376be485-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/result/ae61ba2f-4ce0-422f-af9e-2d860de09524-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/result/b4aebef1-deb6-4e6a-9b2d-36a1aa072b1a-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/result/b5768f6e-95e7-4610-bb13-ed21a143152a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/result/b83e475b-3e70-47ad-a1ae-3ab8d3dd37ac-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/result/b88fcfe8-7721-43ff-ada8-486283488b48-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/result/e8b55c53-933d-4008-b82a-42d8fee13852-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/result/e8ca1253-bb7b-4ebb-9f2c-e7f8ceb39e4d-result.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/attachments/11b1aaaa856bb26e.txt" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/attachments/64276b61a74b9e66.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/attachments/168644279f41a423.txt" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/attachments/1fbcda4e17d29a54.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/attachments/1a0d38d8861d6367.txt" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/attachments/b738aa16e425b6d6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/attachments/1ffe271e84f7b65b.txt" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/attachments/3cf6e00910d506ce.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/attachments/22e6c29d8485b100.txt" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/attachments/a7955cb326a2ffc7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/attachments/262828d926668ee3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/attachments/f05dc6d3f266f9e7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/attachments/42c5cb6e87e5200a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/attachments/7c05d7f54e73bd25.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/attachments/50680cc4a0cd178b.txt" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/attachments/811e29a71d6bccc9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/attachments/5b7847e397c099e7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/attachments/8048cab4cfc2882.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/attachments/607fda5e945eff0f.txt" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/attachments/bb9f20979d5c4779.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/attachments/6dcabf1efa3f7946.txt" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/attachments/9baafcb76999ed8b.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/attachments/6e631d08e1876a3d.txt" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/attachments/339b64e81f6265db.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/attachments/7318f32c7510e823.txt" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/attachments/90a9213d0054604c.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/attachments/775b9baa53c03f7b.txt" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/attachments/511c070a28724f9a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/attachments/7bde0c56c01ecfe6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/attachments/5df143b430b5cc52.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/attachments/815f42f203ab6d69.txt" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/attachments/3fa120cbbb0f3380.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/attachments/8a81d0fa7760df9e.txt" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/attachments/678ec2446456aeed.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/attachments/8ac01adbb698d91d.txt" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/attachments/3ab545c1c51e939f.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/attachments/8d010d9a8f2312eb.txt" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/attachments/b85d3370c60a3619.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/attachments/9297d8d91c7cfe56.txt" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/attachments/eb7e9c728c0c3e9b.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/attachments/9577333a03b50b85.txt" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/attachments/3e2221290c3a1c1c.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/attachments/a84afd7e9e00543b.txt" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/attachments/56220a550f4fe5f1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/attachments/a9916ecd3f912876.txt" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/attachments/5ea859156766676f.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/attachments/abde0cf1e45cd5b8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/attachments/cff6014873845696.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/attachments/b295db8f6e1de817.txt" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/attachments/448c7f5dc59731ab.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/attachments/b2e477d559d5d952.txt" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/attachments/a95ac132e455dbd8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/attachments/c4d1b84e40427020.txt" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/attachments/ef68f051bb8d78a1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/attachments/d0ac6faa1728b64c.txt" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/attachments/fab53e09807d2bf1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/attachments/ec1fb395e323bb21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/attachments/8fcdf566788b5da8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/attachments/f48724adcd472684.txt" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/attachments/821befaf26e4ef6a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/attachments/f586313c03daaffa.txt" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/attachments/c541f1f1995069a5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/behaviors.csv" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/behaviors.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/behaviors.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/behaviors.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/categories.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/categories.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/packages.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/packages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/suites.csv" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/suites.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/suites.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/suites.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/11746c8da7c60241.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/48add1774cf8a91e.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/1284750fab34594a.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/d70998f523abe45b.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/1b1988bd91536eb2.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/835f410472dc438b.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/2383e709d4b8e765.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/cc689c63a6e77dff.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/2e7606a8b159a98b.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/2cbd91874883adb2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/32dae4721998e9f4.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/664c4123aebe99bc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/35dedf57e156b164.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/25c2581c9d3d0d53.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/36cd7f9ebdcf2e8f.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/5a9ea346eb963e63.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/376cd920ede11b6b.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/b74a6f498d72e492.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/377304c43cade8d3.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/41de407eeec7e4d.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/38816250c36c8369.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/bc2a98f515ec7255.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/38d45b19fb554449.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/7e232cfda89ee773.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/3c707c8bd83330c8.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/18b9c48f956b1d8.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/458f60a3c891c432.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/cb03ef0764ac02f.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/488eabe879c64844.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/7f0875d511b5d572.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/4fbcb7839e9bb24a.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/215980c134d0b48e.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/502dd529e1fca1ce.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/de712a25e95863ba.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/5c0b4f325538cb70.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/4219c2b2a6fd24ac.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/5f7b30046e1b406.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/bec8d57ffe2cc19a.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/604244edb8d6a90d.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/bc87affded7de827.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/60ce158d2975985b.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/f35d6532829011c6.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/62a9aa190b82ac4d.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/ffbcdfdc8a9a3f0.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/66780a2cf3e7ea81.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/6e09e9d38fc16235.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/6753c00ebf9194c4.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/5508042e192cc052.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/67feb5414a447371.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/42cc99319e78ae43.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/7126fec1298ecef5.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/f38c85f55ce801a1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/789cec0644ebaa66.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/a269a8f07d45b20e.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/844858c3477e2ad6.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/20886f78db1b4ee.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/8716e6a16883f9cf.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/c777a78d5da97cea.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/8b0fcfdad55feab8.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/f9e146a3a1ac098a.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/907b2b240614599a.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/544bd32879bf2399.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/933461b12e6affa4.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/426577d12a17c0f.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/9455a6066a372e00.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/61f120264ff58730.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/9b148fc5f9d074ed.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/dc0e79f61546997d.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/9c8eef3c5377f713.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/ceab14e2d170f392.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/9ecb399a868dee0d.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/a39f2df5daeace47.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/a1ee1bdd5abd2ac5.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/329dd56a146ad2d8.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/a2dc547e5c976127.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/b0b3867864f6cde3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/a45c396a33d06474.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/dc3c074f311e63a1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/ab28b1b24e9e5952.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/163234386136b0c0.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/b0f9a06a54921fde.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/11085e4a96d9b1e1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/b161e60ef009c318.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/40137fde3bf064b1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/b1e7e6f84aa9640f.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/bc728c40cac1c0ae.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/b6fb3a6472e41707.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/99a35ca047552fcc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/b72f9b26627c512.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/781b0d64c7f4e3c5.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/b9d6e8b5ca10d894.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/c4479f9912227ef3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/ba118e3f90456c3.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/8d0f0fdd9c8b73a1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/bab0cfadcc3552a3.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/b5890964e9aae581.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/bc989a23217a69aa.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/855f843329c53960.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/be51e9c0acbacf30.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/fa3adbc787e89401.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/c8696eec35834a5e.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/1ecd78c4373bfee.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/d202c558597fbc81.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/8171e64deb2d878b.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/d57238b98da6846b.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/b526701118a29d39.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/d81db2bda8ae0f1b.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/246caf00e69e4add.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/db8c1daf53d97952.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/ab2baf82b02138a8.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/e07a37902967b1af.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/fb8389c9a9b0ce51.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/e7fba0541bb81af0.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/df502c13d3e218a9.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/e8705f3cff8e484e.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/6a32402e8785ae8.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/ef9fa7d8b111f4e4.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/5debc066883b7dfb.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/f320ca76997c27a3.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/dbe6ad192a22de79.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/f79fbb33c67eebf9.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/57fce68e87c26185.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/f88db3b4812ab094.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/3d6378791969fd6d.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/test-cases/fb10252ef7cf932f.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/test-cases/aa9781fa99afd5a2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/data/timeline.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/data/timeline.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/export/influxDbData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/export/influxDbData.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/export/prometheusData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/export/prometheusData.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/history/duration-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/history/duration-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/history/history.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/history/history.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/history/retry-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/history/retry-trend.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/report/allure_html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/widgets/duration-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/widgets/duration-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/widgets/duration.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/widgets/duration.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/widgets/retry-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/widgets/retry-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/widgets/severity.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/widgets/severity.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/widgets/status-chart.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/widgets/status-chart.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/allure_html/widgets/summary.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/allure_html/widgets/summary.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/report.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,10 +176,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/test_case.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
+            <state relative-caret-position="-209">
               <caret line="2" selection-start-line="2" selection-end-line="2" />
               <folding>
                 <element signature="e#48#61#0" expanded="true" />
@@ -37,7 +191,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/uti/LoggerHandler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="930">
+            <state relative-caret-position="389">
               <caret line="62" selection-start-line="3" selection-end-line="62" />
               <folding>
                 <element signature="e#48#62#0" expanded="true" />
@@ -47,10 +201,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/__init__.py">
+        <entry file="file://$PROJECT_DIR$/uti/RequestHandler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="329">
+              <caret line="76" selection-start-line="3" selection-end-line="76" />
+              <folding>
+                <element signature="e#64#75#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -65,40 +222,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uti/ExcelHandler.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-136">
+              <caret line="4" selection-start-line="4" selection-end-line="35" />
+              <folding>
+                <element signature="e#71#82#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/run.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/requests/packages/urllib3/_collections.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/report/allure_html/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/readme.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="75">
-                <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-              </first_editor>
-              <second_editor />
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -108,6 +247,27 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
               <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo/demo1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-205">
+              <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="75">
+                <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -174,10 +334,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="44" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
-    <option name="width" value="1598" />
+    <option name="width" value="1440" />
     <option name="height" value="797" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -186,7 +345,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -203,6 +361,11 @@
               <item name="ATScripts" type="b2602c69:ProjectViewProjectNode" />
               <item name="ATScripts" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ATScripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ATScripts" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ATScripts" type="b2602c69:ProjectViewProjectNode" />
@@ -308,6 +471,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -341,7 +505,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.demo1">
+  <component name="RunManager" selected="Python.run">
     <configuration name="EmailHandler" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ATScripts" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -448,8 +612,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.demo1" />
         <item itemvalue="Python.run" />
+        <item itemvalue="Python.demo1" />
         <item itemvalue="Python.EmailHandler" />
         <item itemvalue="Python.LoggerHandler" />
         <item itemvalue="Python tests.pytest in demo1.py" />
@@ -469,7 +633,8 @@
       <workItem from="1574749350510" duration="10581000" />
       <workItem from="1574773318194" duration="1903000" />
       <workItem from="1574816034281" duration="5947000" />
-      <workItem from="1574998313154" duration="4247000" />
+      <workItem from="1574998313154" duration="4706000" />
+      <workItem from="1575858779144" duration="296000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1575012535697</created>
@@ -478,7 +643,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575012535697</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="第二次提交">
+      <created>1575019513695</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575019513695</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -493,18 +665,17 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22678000" />
+    <option name="totallyTimeSpent" value="23433000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="44" y="23" width="1598" height="797" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14910026" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16809729" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.036144577" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.43855423" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -550,10 +721,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+    <MESSAGE value="第二次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二次提交" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ATScripts$run.coverage" NAME="run Coverage Results" MODIFIED="1574827960624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ATScripts$run.coverage" NAME="run Coverage Results" MODIFIED="1575858793578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ATScripts$EmailHandler.coverage" NAME="EmailHandler Coverage Results" MODIFIED="1574816631838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/uti" />
     <SUITE FILE_PATH="coverage/ATScripts$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1574842234507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
   </component>
@@ -623,23 +795,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/uti/RequestHandler.py">
+    <entry file="file://$PROJECT_DIR$/data/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="76" selection-start-line="3" selection-end-line="76" />
-          <folding>
-            <element signature="e#64#75#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/uti/ExcelHandler.py">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/requests/packages/urllib3/_collections.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="35" />
-          <folding>
-            <element signature="e#71#82#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/allure_html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -653,16 +826,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/demo1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/uti/EmailHandler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
+        <state relative-caret-position="-601">
           <caret line="3" selection-start-line="3" selection-end-line="65" />
           <folding>
             <element signature="e#61#75#0" expanded="true" />
@@ -670,12 +836,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/uti/ExcelHandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="4" selection-start-line="4" selection-end-line="35" />
+          <folding>
+            <element signature="e#71#82#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/uti/LoggerHandler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
+        <state relative-caret-position="389">
           <caret line="62" selection-start-line="3" selection-end-line="62" />
           <folding>
             <element signature="e#48#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uti/RequestHandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="76" selection-start-line="3" selection-end-line="76" />
+          <folding>
+            <element signature="e#64#75#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -687,17 +873,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/requests/packages/urllib3/_collections.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/report/report.html">
+    <entry file="file://$PROJECT_DIR$/run.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="90">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -711,44 +900,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/run.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="75">
-            <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/report/allure_html/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scripts/test_case.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
+        <state relative-caret-position="-209">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
           <folding>
             <element signature="e#48#61#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-205">
+          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
         </state>
       </provider>
     </entry>

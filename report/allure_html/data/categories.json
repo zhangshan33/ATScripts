@@ -7,13 +7,13 @@
       "name" : "AssertionError: assert 'JavaScript -... - 听雨危楼 - 博客园' == 'JavaScript -...- 听雨危楼 - 博客园2'\n  - JavaScript - 过滤敏感字符 - 听雨危楼 - 博客园\n  + JavaScript - 过滤敏感字符 - 听雨危楼 - 博客园2\n  ?                                 +",
       "children" : [ {
         "name" : "cnblogs",
-        "uid" : "6753c00ebf9194c4",
+        "uid" : "5508042e192cc052",
         "parentUid" : "f35a7bd44e4fde614daa5bc822cc6b0b",
         "status" : "failed",
         "time" : {
-          "start" : 1574817331041,
-          "stop" : 1574817331239,
-          "duration" : 198
+          "start" : 1574827966603,
+          "stop" : 1574827966812,
+          "duration" : 209
         },
         "flaky" : false,
         "newFailed" : false,

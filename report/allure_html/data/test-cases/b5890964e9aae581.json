@@ -1,0 +1,95 @@
+{
+  "uid" : "b5890964e9aae581",
+  "name" : "cnodejs项目",
+  "fullName" : "scripts.test_case.Test_case#test_case",
+  "historyId" : "8969fb93535c3ccbd57d0d36069d62f2",
+  "time" : {
+    "start" : 1574758312965,
+    "stop" : 1574758313428,
+    "duration" : 463
+  },
+  "description" : "<font color=\"red\">请求URL：</font>https://cnodejs.org/api/v1/topics<br /><font color=\"red\">期望值：</font>get /topics 主题首页",
+  "descriptionHtml" : "<p><font color=\"red\">请求URL：</font>https://cnodejs.org/api/v1/topics<br /><font color=\"red\">期望值：</font>get /topics 主题首页</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1574758312961,
+      "stop" : 1574758312961,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1574758316186,
+      "stop" : 1574758321876,
+      "duration" : 5690
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "cnodejs项目"
+  }, {
+    "name" : "story",
+    "value" : "get"
+  }, {
+    "name" : "parentSuite",
+    "value" : "scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_case"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_case"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-TC"
+  }, {
+    "name" : "thread",
+    "value" : "150920-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_case"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "case",
+    "value" : "{'case_project': 'cnodejs项目', 'case_description': 'get /topics 主题首页', 'case_url': 'https://cnodejs.org/api/v1/topics', 'case_method': 'get', 'case_params': '', 'case_expect': '{\"success\":true}', 'other': ''}"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b5890964e9aae581.json",
+  "parameterValues" : [ "{'case_project': 'cnodejs项目', 'case_description': 'get /topics 主题首页', 'case_url': 'https://cnodejs.org/api/v1/topics', 'case_method': 'get', 'case_params': '', 'case_expect': '{\"success\":true}', 'other': ''}" ]
+}

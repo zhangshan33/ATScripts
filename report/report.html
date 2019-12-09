@@ -241,7 +241,7 @@ function filter_table(elem) {
 }
 </script>
     <h1>report.html</h1>
-    <p>Report generated on 27-Nov-2019 at 12:12:54 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v2.0.1</p>
+    <p>Report generated on 09-Dec-2019 at 10:33:37 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v2.0.1</p>
     <h2>Environment</h2>
     <table id="environment">
       <tr>
@@ -260,7 +260,7 @@ function filter_table(elem) {
         <td>Python</td>
         <td>3.7.3</td></tr></table>
     <h2>Summary</h2>
-    <p>8 tests ran in 12.94 seconds. </p>
+    <p>8 tests ran in 23.12 seconds. </p>
     <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="passed">7 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="failed">1 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
     <h2>Results</h2>
     <table id="results-table">
@@ -276,16 +276,16 @@ function filter_table(elem) {
         <tr>
           <td class="col-result">Failed</td>
           <td class="col-name">scripts/test_case.py::Test_case::test_case[case7]</td>
-          <td class="col-duration">0.21</td>
+          <td class="col-duration">0.81</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
-            <div class="log">self = &lt;scripts.test_case.Test_case object at 0x1078af668&gt;<br/>case = {&#x27;case_description&#x27;: &#x27;博客园博客信息&#x27;, &#x27;case_expect&#x27;: &#x27;JavaScript - 过滤敏感字符 - 听雨危楼 - 博客园2&#x27;, &#x27;case_method&#x27;: &#x27;get&#x27;, &#x27;case_params&#x27;: &#x27;&#x27;, ...}<br/><br/>    @pytest.mark.parametrize(&#x27;case&#x27;, ExcelHandler().get_excel_data)<br/>    def test_case(self, case):<br/>        &quot;&quot;&quot;  执行断言 &quot;&quot;&quot;<br/>        # print(case)<br/>        # 发请求<br/>        response = RequestHandler(case).get_response<br/>    <br/>        # 制作 allure 报告<br/>        allure.dynamic.title(case[&#x27;case_project&#x27;])<br/>        allure.dynamic.description(&#x27;&lt;font color=&quot;red&quot;&gt;请求URL：&lt;/font&gt;{}&lt;br /&gt;&#x27;<br/>                                   &#x27;&lt;font color=&quot;red&quot;&gt;期望值：&lt;/font&gt;{}&#x27;.format(case[&#x27;case_url&#x27;], case[&#x27;case_description&#x27;]))<br/>        allure.dynamic.feature(case[&#x27;case_project&#x27;])<br/>        allure.dynamic.story(case[&#x27;case_method&#x27;])<br/>&gt;       assert response[0] == response[1]<br/><span class="error">E       AssertionError: assert &#x27;JavaScript -... - 听雨危楼 - 博客园&#x27; == &#x27;JavaScript -...- 听雨危楼 - 博客园2&#x27;</span><br/><span class="error">E         - JavaScript - 过滤敏感字符 - 听雨危楼 - 博客园</span><br/><span class="error">E         + JavaScript - 过滤敏感字符 - 听雨危楼 - 博客园2</span><br/><span class="error">E         ?                                 +</span><br/><br/>scripts/test_case.py:34: AssertionError<br/></div></td></tr></tbody>
+            <div class="log">self = &lt;scripts.test_case.Test_case object at 0x111cfb1d0&gt;<br/>case = {&#x27;case_description&#x27;: &#x27;博客园博客信息&#x27;, &#x27;case_expect&#x27;: &#x27;JavaScript - 过滤敏感字符 - 听雨危楼 - 博客园2&#x27;, &#x27;case_method&#x27;: &#x27;get&#x27;, &#x27;case_params&#x27;: &#x27;&#x27;, ...}<br/><br/>    @pytest.mark.parametrize(&#x27;case&#x27;, ExcelHandler().get_excel_data)<br/>    def test_case(self, case):<br/>        &quot;&quot;&quot;  执行断言 &quot;&quot;&quot;<br/>        # print(case)<br/>        # 发请求<br/>        response = RequestHandler(case).get_response<br/>    <br/>        # 制作 allure 报告<br/>        allure.dynamic.title(case[&#x27;case_project&#x27;])<br/>        allure.dynamic.description(&#x27;&lt;font color=&quot;red&quot;&gt;请求URL：&lt;/font&gt;{}&lt;br /&gt;&#x27;<br/>                                   &#x27;&lt;font color=&quot;red&quot;&gt;期望值：&lt;/font&gt;{}&#x27;.format(case[&#x27;case_url&#x27;], case[&#x27;case_description&#x27;]))<br/>        allure.dynamic.feature(case[&#x27;case_project&#x27;])<br/>        allure.dynamic.story(case[&#x27;case_method&#x27;])<br/>&gt;       assert response[0] == response[1]<br/><span class="error">E       AssertionError: assert &#x27;JavaScript -... - 听雨危楼 - 博客园&#x27; == &#x27;JavaScript -...- 听雨危楼 - 博客园2&#x27;</span><br/><span class="error">E         - JavaScript - 过滤敏感字符 - 听雨危楼 - 博客园</span><br/><span class="error">E         + JavaScript - 过滤敏感字符 - 听雨危楼 - 博客园2</span><br/><span class="error">E         ?                                 +</span><br/><br/>scripts/test_case.py:34: AssertionError<br/></div></td></tr></tbody>
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
           <td class="col-name">scripts/test_case.py::Test_case::test_case[case0]</td>
-          <td class="col-duration">1.13</td>
+          <td class="col-duration">5.07</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
@@ -294,7 +294,7 @@ function filter_table(elem) {
         <tr>
           <td class="col-result">Passed</td>
           <td class="col-name">scripts/test_case.py::Test_case::test_case[case1]</td>
-          <td class="col-duration">0.66</td>
+          <td class="col-duration">0.99</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
@@ -303,7 +303,7 @@ function filter_table(elem) {
         <tr>
           <td class="col-result">Passed</td>
           <td class="col-name">scripts/test_case.py::Test_case::test_case[case2]</td>
-          <td class="col-duration">0.37</td>
+          <td class="col-duration">1.02</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
@@ -312,7 +312,7 @@ function filter_table(elem) {
         <tr>
           <td class="col-result">Passed</td>
           <td class="col-name">scripts/test_case.py::Test_case::test_case[case3]</td>
-          <td class="col-duration">0.32</td>
+          <td class="col-duration">0.61</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
@@ -321,7 +321,7 @@ function filter_table(elem) {
         <tr>
           <td class="col-result">Passed</td>
           <td class="col-name">scripts/test_case.py::Test_case::test_case[case4]</td>
-          <td class="col-duration">0.36</td>
+          <td class="col-duration">0.64</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
@@ -330,7 +330,7 @@ function filter_table(elem) {
         <tr>
           <td class="col-result">Passed</td>
           <td class="col-name">scripts/test_case.py::Test_case::test_case[case5]</td>
-          <td class="col-duration">0.29</td>
+          <td class="col-duration">1.19</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
@@ -339,7 +339,7 @@ function filter_table(elem) {
         <tr>
           <td class="col-result">Passed</td>
           <td class="col-name">scripts/test_case.py::Test_case::test_case[case6]</td>
-          <td class="col-duration">1.63</td>
+          <td class="col-duration">1.21</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">

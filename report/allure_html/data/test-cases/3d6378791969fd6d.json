@@ -1,0 +1,97 @@
+{
+  "uid" : "3d6378791969fd6d",
+  "name" : "v2EX项目",
+  "fullName" : "scripts.test_case.Test_case#test_case",
+  "historyId" : "2375b523c2d3da9387227be97fe292b6",
+  "time" : {
+    "start" : 1574759011815,
+    "stop" : 1574759012428,
+    "duration" : 613
+  },
+  "description" : "<font color=\"red\">请求URL：</font>https://www.v2ex.com/api/site/info.json<br /><font color=\"red\">期望值：</font>获取网站信息",
+  "descriptionHtml" : "<p><font color=\"red\">请求URL：</font>https://www.v2ex.com/api/site/info.json<br /><font color=\"red\">期望值：</font>获取网站信息</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1574759009496,
+      "stop" : 1574759009496,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1574759012942,
+      "stop" : 1574759017779,
+      "duration" : 4837
+    },
+    "status" : "broken",
+    "statusMessage" : "AttributeError: 'EmailHandler' object has no attribute 'f'\n",
+    "statusTrace" : "  File \"C:\\Python36\\lib\\site-packages\\allure_commons\\_allure.py\", line 185, in __call__\n    return self._fixture_function(*args, **kwargs)\n  File \"C:\\Python36\\lib\\site-packages\\_pytest\\fixtures.py\", line 787, in _teardown_yield_fixture\n    next(it)\n  File \"C:\\Python36\\lib\\site-packages\\_pytest\\python.py\", line 734, in xunit_setup_class_fixture\n    _call_with_optional_argument(func, self.obj)\n  File \"C:\\Python36\\lib\\site-packages\\_pytest\\python.py\", line 668, in _call_with_optional_argument\n    func(arg)\n  File \"D:\\MT\\ATScripts\\scripts\\test_case.py\", line 41, in teardown_class\n    EmailHandler().send_email()\n  File \"D:\\MT\\ATScripts\\uti\\EmailHandler.py\", line 42, in send_email\n    html = MIMEText(_text=self.f, _subtype='html', _charset='utf-8')  # 第一个参数为邮件内容\n",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "v2EX项目"
+  }, {
+    "name" : "story",
+    "value" : "get"
+  }, {
+    "name" : "parentSuite",
+    "value" : "scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_case"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_case"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-TC"
+  }, {
+    "name" : "thread",
+    "value" : "134800-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_case"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "case",
+    "value" : "{'case_project': 'v2EX项目', 'case_description': '获取网站信息', 'case_url': 'https://www.v2ex.com/api/site/info.json', 'case_method': 'get', 'case_params': '', 'case_expect': '{\"title\":\"V2EX\"}', 'other': ''}"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3d6378791969fd6d.json",
+  "parameterValues" : [ "{'case_project': 'v2EX项目', 'case_description': '获取网站信息', 'case_url': 'https://www.v2ex.com/api/site/info.json', 'case_method': 'get', 'case_params': '', 'case_expect': '{\"title\":\"V2EX\"}', 'other': ''}" ]
+}
